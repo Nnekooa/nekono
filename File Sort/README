@@ -1,0 +1,3 @@
+A File Sort Tool
+It can sort files by their suffixes in a dir(include subdir)
+It will creates dirs which will content files with associated suffix
