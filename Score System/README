@@ -1,0 +1,17 @@
+A SCORE SYSTEM
+
+Function:
+- Read a CSV file containing exam scores (first column: student names, following columns: subject scores).
+- Calculate total score, average, level (A-F), and rank for each student.
+- Show max, min, average for each subject.
+- Print results to terminal and append to report.txt.
+
+How to use:
+1. Put the CSV file (e.g., Finally Exam.csv) in the same folder as the script.
+2. Run the script.
+3. Enter the exam name (file name without .csv) when prompted.
+4. Choose whether to save details to report.txt (Y/N).
+5. Press Enter to exit.
+
+Known issue / Improvement needed:
+- Absent students are recorded as 0, which makes min and average values incorrect.
